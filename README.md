@@ -17,6 +17,8 @@ This schema describes :
 For each step the schema describes :
 
 * a description
+* a module type
+* the modules arguments
 
 This repo contains :
 
