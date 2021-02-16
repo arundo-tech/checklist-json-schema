@@ -1,8 +1,8 @@
 # checklist-json-schema
 
-The public JSON schema to write your own checklist.
+The public JSON schema is used to write your own checklist.
 
-This repo containes the JSON schema describing a checkclist.
+This repo contains the JSON schema describing a checkclist.
 
 The checklist is the central piece in the process of verifying a PDF document
 (especially the signed ones).
@@ -14,7 +14,7 @@ This schema describes :
 * the steps of the check process
 * some styling elements to apply (logo, colors, ...)
 
-For each step the schema describes :
+For each step the schema details :
 
 * a description
 * a module type
